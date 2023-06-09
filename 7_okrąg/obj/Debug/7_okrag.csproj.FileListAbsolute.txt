@@ -1,0 +1,8 @@
+C:\Studia\Programowanie\2 zajęcia\Programy\7_okrąg\bin\Debug\7_okrąg.exe.config
+C:\Studia\Programowanie\2 zajęcia\Programy\7_okrąg\bin\Debug\7_okrąg.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\7_okrąg\bin\Debug\7_okrąg.pdb
+C:\Studia\Programowanie\2 zajęcia\Programy\7_okrąg\obj\Debug\7_okrag.csproj.AssemblyReference.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\7_okrąg\obj\Debug\7_okrag.csproj.SuggestedBindingRedirects.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\7_okrąg\obj\Debug\7_okrag.csproj.CoreCompileInputs.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\7_okrąg\obj\Debug\7_okrąg.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\7_okrąg\obj\Debug\7_okrąg.pdb

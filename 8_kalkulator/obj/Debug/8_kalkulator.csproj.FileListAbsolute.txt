@@ -1,0 +1,8 @@
+C:\Studia\Programowanie\2 zajęcia\Programy\8_kalkulator\obj\Debug\8_kalkulator.csproj.AssemblyReference.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\8_kalkulator\obj\Debug\8_kalkulator.csproj.SuggestedBindingRedirects.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\8_kalkulator\obj\Debug\8_kalkulator.csproj.CoreCompileInputs.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\8_kalkulator\bin\Debug\8_kalkulator.exe.config
+C:\Studia\Programowanie\2 zajęcia\Programy\8_kalkulator\bin\Debug\8_kalkulator.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\8_kalkulator\bin\Debug\8_kalkulator.pdb
+C:\Studia\Programowanie\2 zajęcia\Programy\8_kalkulator\obj\Debug\8_kalkulator.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\8_kalkulator\obj\Debug\8_kalkulator.pdb

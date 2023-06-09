@@ -1,0 +1,8 @@
+C:\Studia\Programowanie\2 zajęcia\Programy\3_bmi\bin\Debug\3_bmi.exe.config
+C:\Studia\Programowanie\2 zajęcia\Programy\3_bmi\bin\Debug\3_bmi.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\3_bmi\bin\Debug\3_bmi.pdb
+C:\Studia\Programowanie\2 zajęcia\Programy\3_bmi\obj\Debug\3_bmi.csproj.AssemblyReference.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\3_bmi\obj\Debug\3_bmi.csproj.SuggestedBindingRedirects.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\3_bmi\obj\Debug\3_bmi.csproj.CoreCompileInputs.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\3_bmi\obj\Debug\3_bmi.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\3_bmi\obj\Debug\3_bmi.pdb

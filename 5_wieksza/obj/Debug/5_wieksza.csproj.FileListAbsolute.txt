@@ -1,0 +1,8 @@
+C:\Studia\Programowanie\2 zajęcia\Programy\5_wieksza\bin\Debug\5_wieksza.exe.config
+C:\Studia\Programowanie\2 zajęcia\Programy\5_wieksza\bin\Debug\5_wieksza.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\5_wieksza\bin\Debug\5_wieksza.pdb
+C:\Studia\Programowanie\2 zajęcia\Programy\5_wieksza\obj\Debug\5_wieksza.csproj.AssemblyReference.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\5_wieksza\obj\Debug\5_wieksza.csproj.SuggestedBindingRedirects.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\5_wieksza\obj\Debug\5_wieksza.csproj.CoreCompileInputs.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\5_wieksza\obj\Debug\5_wieksza.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\5_wieksza\obj\Debug\5_wieksza.pdb

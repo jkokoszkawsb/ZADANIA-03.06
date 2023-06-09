@@ -1,0 +1,8 @@
+C:\Studia\Programowanie\2 zajęcia\Programy\6_trojkat\obj\Debug\6_trojkat.csproj.AssemblyReference.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\6_trojkat\obj\Debug\6_trojkat.csproj.SuggestedBindingRedirects.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\6_trojkat\obj\Debug\6_trojkat.csproj.CoreCompileInputs.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\6_trojkat\bin\Debug\6_trojkat.exe.config
+C:\Studia\Programowanie\2 zajęcia\Programy\6_trojkat\bin\Debug\6_trojkat.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\6_trojkat\bin\Debug\6_trojkat.pdb
+C:\Studia\Programowanie\2 zajęcia\Programy\6_trojkat\obj\Debug\6_trojkat.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\6_trojkat\obj\Debug\6_trojkat.pdb

@@ -1,0 +1,8 @@
+C:\Studia\Programowanie\2 zajęcia\Programy\4_ulamki\bin\Debug\4_ulamki.exe.config
+C:\Studia\Programowanie\2 zajęcia\Programy\4_ulamki\bin\Debug\4_ulamki.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\4_ulamki\bin\Debug\4_ulamki.pdb
+C:\Studia\Programowanie\2 zajęcia\Programy\4_ulamki\obj\Debug\4_ulamki.csproj.AssemblyReference.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\4_ulamki\obj\Debug\4_ulamki.csproj.SuggestedBindingRedirects.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\4_ulamki\obj\Debug\4_ulamki.csproj.CoreCompileInputs.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\4_ulamki\obj\Debug\4_ulamki.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\4_ulamki\obj\Debug\4_ulamki.pdb

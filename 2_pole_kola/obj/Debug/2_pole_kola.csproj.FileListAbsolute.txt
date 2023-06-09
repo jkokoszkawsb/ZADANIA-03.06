@@ -1,0 +1,8 @@
+C:\Studia\Programowanie\2 zajęcia\Programy\2_pole_kola\bin\Debug\2_pole_kola.exe.config
+C:\Studia\Programowanie\2 zajęcia\Programy\2_pole_kola\bin\Debug\2_pole_kola.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\2_pole_kola\bin\Debug\2_pole_kola.pdb
+C:\Studia\Programowanie\2 zajęcia\Programy\2_pole_kola\obj\Debug\2_pole_kola.csproj.AssemblyReference.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\2_pole_kola\obj\Debug\2_pole_kola.csproj.SuggestedBindingRedirects.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\2_pole_kola\obj\Debug\2_pole_kola.csproj.CoreCompileInputs.cache
+C:\Studia\Programowanie\2 zajęcia\Programy\2_pole_kola\obj\Debug\2_pole_kola.exe
+C:\Studia\Programowanie\2 zajęcia\Programy\2_pole_kola\obj\Debug\2_pole_kola.pdb
